@@ -424,5 +424,3 @@ struct heif_error heif_property_get_tai_timestamp(const struct heif_context* ctx
 #ifdef __cplusplus
 }
 #endif
-
-#endif
